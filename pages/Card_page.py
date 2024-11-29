@@ -35,7 +35,7 @@ class card_page(base):
         print("Выбраны все товары в корзине'")
     def click_get_Place_order(self):
         self.get_Place_order().click()
-        print("Перешли к оформлению'")
+        print("Перешли к оформлению'") # ddd
 
 
 
